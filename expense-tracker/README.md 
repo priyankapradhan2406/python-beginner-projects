@@ -1,0 +1,50 @@
+Expense Tracker
+
+Project Overview
+
+Expense Tracker is a beginner-friendly Python project that helps users record and manage their daily expenses.
+
+Project Objectives
+
+- Record daily expenses.
+- Organize expenses by category.
+- View all recorded expenses.
+- Calculate total spending.
+
+Features
+
+- Add new expenses.
+- Enter expense name, category, and amount.
+- Display all recorded expenses.
+- Calculate total expenses.
+- Simple menu-driven interface.
+
+Technologies Used
+
+- Python
+- Google Colab
+
+How It Works
+
+1. Select an option from the menu.
+2. Add an expense by entering its name, category, and amount.
+3. View all recorded expenses.
+4. Check the total spending.
+5. Exit the application.
+
+Sample Output
+
+See "project-output.png" for a screenshot of the program running.
+
+Learning Outcomes
+
+- Understanding Python lists and dictionaries.
+- Using functions.
+- Working with loops and conditional statements.
+- Taking user input.
+- Performing calculations.
+
+Developer
+
+Priyanka Pradhan
+BSc Computer Science Student
